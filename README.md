@@ -12,7 +12,7 @@ short_description: A Voila template for leafmap
 license: mit
 ---
 
-# leafmap-voila
+# geemap-voila
 
 Build a docker image for using leafmap with Voila
 
