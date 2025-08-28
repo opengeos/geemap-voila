@@ -9,4 +9,3 @@ dependencies:
   - leafmap
   - maplibre
   - voila
-  - voila_topbar
